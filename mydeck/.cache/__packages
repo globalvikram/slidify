@@ -1,0 +1,14 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+rsconnect
+devtools
+Rcpp
+slidify
+slidifyLibraries
+bitops
+RCurl
